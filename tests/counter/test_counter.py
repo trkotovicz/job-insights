@@ -1,6 +1,5 @@
 import json
 from unittest.mock import mock_open, patch
-
 from src.counter import count_ocurrences
 
 
